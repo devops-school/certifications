@@ -14,7 +14,7 @@ Total, Over 18 years of extensive experience working with more than 10 software 
 
 ```
 Agenda for DevOps - PDF Attached
-Certifcation Name - DevOps Certified Professional (DCP)
+Certification Name - DevOps Certified Professional (DCP)
 DevOps: Basic Economics & Advantage & Summary
 - Summary - 25 Tools.
 - Fees - INR 19999 OR $300
@@ -36,7 +36,7 @@ DevOps: Basic Economics & Advantage & Summary
 
 ```
 Agenda for SRE - PDF Attached
-Certifcation Name - Site Reliability Engineering (SRE) Certified Professional
+Certification Name - Site Reliability Engineering (SRE) Certified Professional
 SRE: Basic Economics & Advantage & Summary
 - Summary - 45 Tools.
 - Fees - INR 49999 OR $700
@@ -57,7 +57,7 @@ SRE: Basic Economics & Advantage & Summary
 
 ```
 Agenda for DevSecOps - PDF Attached
-Certifcation Name - DevSecOps Certified Professional (DSOCP)
+Certification Name - DevSecOps Certified Professional (DSOCP)
 DevSecOps: Basic Economics & Advantage & Summary
 - Summary - 45 Tools.
 - Fees - INR 49999 OR $700
