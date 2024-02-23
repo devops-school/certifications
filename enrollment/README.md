@@ -20,7 +20,7 @@ DevOps: Basic Economics & Advantage & Summary
 - Duration - 80 Hours / 2 Months Program
 - Economics - INR 800 /tool OR $10/tool
 - Instructor Led Live training Session
-- Lifetime access to LMS (https://www.devopsschool.com/lms/)
+- Lifetime access to LMS (https://www.devopsschool.xyz/)
 - Trainer with 18+ real time exp from Top Prod based Company
 - 1000+ real-time interview questions & Answer  
 - Interview Preparation Online KIT
@@ -42,7 +42,7 @@ SRE: Basic Economics & Advantage & Summary
 - Duration - 120+ Hours / 3 Months Program
 - Economics - INR 1111/tool OR $15/tool for Lifetime
 - Instructor Led Live Training Session
-- Lifetime access to LMS (https://www.devopsschool.com/lms/)
+- Lifetime access to LMS (https://www.devopsschool.xyz/)
 - Trainer with 18+ REAL TIME exp.(https://www.rajeshkumar.xyz/cv/)
 - 1000+ real-time interview questions & Answer  
 - Interview Preparation Online KIT
@@ -64,7 +64,7 @@ DevSecOps: Basic Economics & Advantage & Summary
 - Duration - 120+ Hours / 3 Months Program
 - Economics - INR 1111/tool OR $15/tool for Lifetime
 - Instructor Led Live Training Session
-- Lifetime access to LMS (https://www.devopsschool.com/lms/)
+- Lifetime access to LMS (https://www.devopsschool.xyz/)
 - Trainer with 18+ REAL TIME exp.(https://www.rajeshkumar.xyz/cv/)
 - 1000+ real-time interview questions & Answer  
 - Interview Preparation Online KIT
@@ -86,7 +86,7 @@ MDE: Basic Economics & Advantage & Summary
 - Duration - 150+ Hours / 4 Months Program
 - Economics - INR 1500/tool OR $20/tool for Lifetime
 - Instructor Led Live Training Session
-- Lifetime access to LMS (https://www.devopsschool.com/lms/)
+- Lifetime access to LMS (https://www.devopsschool.xyz/)
 - Trainer with 18+ REAL TIME exp.(https://www.rajeshkumar.xyz/cv/)
 - 1000+ real-time interview questions & Answer  
 - Interview Preparation Online KIT
