@@ -13,23 +13,23 @@ Total, Over 18 years of extensive experience working with more than 10 software 
 # DevOps
 
 ```
-Agenda for DevOps - PDF Attached
 Certification Name - DevOps Certified Professional (DCP)
 DevOps: Basic Economics & Advantage & Summary
 - Summary - 25 Tools.
-- Fees - INR 19999 OR $300
+- Fees - INR 24999 OR $350
 - Duration - 80 Hours / 2 Months Program
-- Economics - INR 800 /tool OR $10/tool for Lifetime
+- Economics - INR 800 /tool OR $10/tool
 - Instructor Led Live training Session
 - Lifetime access to LMS (https://www.devopsschool.com/lms/)
 - Trainer with 18+ real time exp from Top Prod based Company
 - 1000+ real-time interview questions & Answer  
 - Interview Preparation Online KIT
 - Assignment for each tools
-- Real time based Project per courses
+- Real time Scnario based Project per Certification Program
 - 6 Months Free Internship Based on Merit by Cotocus Pvt Ltd IT Company (www.Cotocus.com)
 - Course Syllabus Link - https://devopsschool.com/certification/devops-certified-professional-dcp.html
-
+- PDF Agenda Link - https://devopsschool.com/certification/pdf-file/devops-certified-professional-(dcp)-training.pdf
+- Demo Recorded Video - https://www.devopsschool.com/blog/demo-devops-video-tutorial/
 ```
 
 # SRE
