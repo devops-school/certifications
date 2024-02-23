@@ -35,7 +35,6 @@ DevOps: Basic Economics & Advantage & Summary
 # SRE
 
 ```
-Agenda for SRE - PDF Attached
 Certification Name - Site Reliability Engineering (SRE) Certified Professional
 SRE: Basic Economics & Advantage & Summary
 - Summary - 45 Tools.
@@ -58,7 +57,6 @@ SRE: Basic Economics & Advantage & Summary
 # DevScOps
 
 ```
-Agenda for DevSecOps - PDF Attached
 Certification Name - DevSecOps Certified Professional (DSOCP)
 DevSecOps: Basic Economics & Advantage & Summary
 - Summary - 45 Tools.
@@ -81,7 +79,6 @@ DevSecOps: Basic Economics & Advantage & Summary
 # MDE
 
 ```
-Agenda for MDE - PDF Attached
 Certifcation Name - Master in DevOps Engineering (MDE)
 MDE: Basic Economics & Advantage & Summary
 - Summary - 60 Tools.
