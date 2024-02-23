@@ -97,3 +97,24 @@ MDE: Basic Economics & Advantage & Summary
 - PDF Agenda Link - https://devopsschool.com/certification/pdf-file/master-in-devops-engineering-mde-including-devsecops-and-sre.pdf
 - Demo Recorded Video - https://www.devopsschool.com/blog/demo-devops-video-tutorial/
 ```
+# MLOps
+
+```
+Certification Name - MLOps Certified Professional (MLOCP)
+MLOps: Basic Economics & Advantage & Summary
+- Summary - 30+ Tools.
+- Fees - INR 49999 OR $700
+- Duration - 120+ Hours / 3 Months Program
+- Economics - INR 1500/tool OR $20/tool for Lifetime
+- Instructor Led Live Training Session
+- Lifetime access to LMS (https://www.devopsschool.xyz/)
+- Trainer with 18+ REAL TIME exp.(https://www.rajeshkumar.xyz/cv/)
+- 1000+ real-time interview questions & Answer  
+- Interview Preparation Online KIT
+- Assignment for each tools
+- Real time Scnario based Project per Certification Program
+- 6 Months Free Internship Based on Merit by Cotocus Pvt Ltd IT Company (www.Cotocus.com)
+- Course Syllabus Link - https://devopsschool.com/certification/mlops-certified-professional.html
+- PDF Agenda Link - https://devopsschool.com/certification/pdf-file/mlops-certification-training-course-mlops-certified-professional.pdf
+- Demo Recorded Video - https://www.devopsschool.com/blog/mlops-demo-video/
+```
