@@ -51,6 +51,8 @@ SRE: Basic Economics & Advantage & Summary
 - Real time based Project per courses
 - 6 Months Free Internship Based on Merit by Cotocus Pvt Ltd IT Company (www.Cotocus.com)
 - Course Syllabus Link - https://devopsschool.com/certification/sre-certified-professional-srecp.html
+- PDF Agenda Link - https://devopsschool.com/certification/pdf-file/devops-certified-professional-(dcp)-training.pdf
+- Demo Recorded Video - https://www.devopsschool.com/blog/demo-devops-video-tutorial/
 ```
 
 # DevScOps
